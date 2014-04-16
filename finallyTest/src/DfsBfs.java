@@ -65,6 +65,7 @@ class AMWGraph {
         return vertexList.size();
     }
 
+
     //得到边的数目
     public int getNumOfEdges() {
         return numOfEdges;
